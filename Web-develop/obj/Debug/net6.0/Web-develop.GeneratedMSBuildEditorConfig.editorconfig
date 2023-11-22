@@ -9,37 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_develop
 build_property.RootNamespace = Web_develop
-build_property.ProjectDir = C:\Users\Vance\source\repos\Web-develop\Web-develop\
+build_property.ProjectDir = C:\Users\Кирилл\Desktop\Alfred\Web-Alfred\Web-develop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Vance\source\repos\Web-develop\Web-develop
+build_property.MSBuildProjectDirectory = C:\Users\Кирилл\Desktop\Alfred\Web-Alfred\Web-develop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/Home/Index.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Home/Finance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Home/Politics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb2xpdGljcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/Shared/Error.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Home/Sport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/_ViewImports.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/_ViewStart.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vance/source/repos/Web-develop/Web-develop/Views/Shared/_Layout.cshtml]
+[C:/Users/Кирилл/Desktop/Alfred/Web-Alfred/Web-develop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tz5r4ayyof

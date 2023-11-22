@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pwJNBwAhYT15sedwWySMgJPwHVzTd/ZrwFsFUxROnNhjGcnfkRMVvZvZayF6Av3M/fW+RKdGxJxRqalbrc3otQ==",
+  "dgSpecHash": "7LJgm2t3QiuexNpvYLah+rwVrhK4CxcfVjjT638BG7C76Spar1FcKXXh/Nf4n6oToG+23ALS9zjccw5myKy1Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vance\\source\\repos\\Web-develop\\Web-develop\\Web-develop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Кирилл\\Desktop\\Alfred\\Web-Alfred\\Web-develop\\Web-develop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
