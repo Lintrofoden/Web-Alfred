@@ -1,6 +1,14 @@
+using Web_develop.Controllers;
+using Web_develop.Models;
+using Microsoft.EntityFrameworkCore;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+//builder.Services.AddDbContext<AppContext>(options => 
+//   options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=mobilesdb;Trusted_Connection=True;"));
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
