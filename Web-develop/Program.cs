@@ -6,8 +6,8 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//builder.Services.AddDbContext<AppContext>(options => 
-//   options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=mobilesdb;Trusted_Connection=True;"));
+builder.Services.AddDbContext<AppDbContext>(options => 
+   options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=mobilesdb;Trusted_Connection=True;"));
 
 builder.Services.AddControllersWithViews();
 
